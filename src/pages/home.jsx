@@ -42,7 +42,7 @@ export default function HomePage() {
         console.log(err);
         setLoading(false);
         setError(true);
-        setErrorMsg('Pokemon no encontrado.');
+        setErrorMsg('Pokemon no encontrado, nombres en minúscula.');
       }
     }, 1500);
   }
