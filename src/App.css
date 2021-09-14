@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background: #ffff;
+  box-shadow: 1px 1px 2px 2px rgb(194, 184, 184);
+  padding: 1em; 
+   width: 50%;
+   height: 60%;
+   max-width: 1000px;
+    margin: 2em auto 2em;
+}
+
+@media only screen and (max-width: 682px){
+  .App{
+    text-align: column;
+    
+  }
+}

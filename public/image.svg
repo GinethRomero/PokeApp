@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="640" height="480" viewBox="0 0 640 480" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.3</desc>
+<defs>
+</defs>
+<g transform="matrix(0.45 0 0 0.42 319.5 281.14)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 0 0)" id="Capa_1-2"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(98,225,142); fill-rule: nonzero; opacity: 1;"  transform=" translate(-770, -502)" d="M 49.25 1004 h 1441.5 V 0 C 1014.56 518.63 692.93 571.09 49.25 359.5 Z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 0 30)" id="Capa_1-2"  >
+<linearGradient id="SVGID_Degradado_sin_nombre_5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1 0 0 -1 0 1005)"  x1="770" y1="913.5" x2="770" y2="32.5">
+<stop offset="0%" style="stop-color:rgb(140,246,145);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(128,239,145);stop-opacity: 1"/>
+</linearGradient>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: url(#SVGID_Degradado_sin_nombre_5); fill-rule: nonzero; opacity: 1;"  transform=" translate(-770, -532)" d="M 0 972.5 H 1540 V 91.5 c -73.46 8.43 -243.23 82.35 -334.6 310.53 c -114.21 285.24 -182.31 254.76 -600.55 219.11 C 270.25 592.61 62.2 689 0 740.75 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
